@@ -1,1 +1,2 @@
 hi this is local
+now i am able to edit file on global git
